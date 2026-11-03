@@ -1,0 +1,15 @@
+{
+"name": "Bọt Biển City #4",
+"description": "Không gian kiến trúc Bọt Biển City. Sở hữu NFT để yêu cầu vẽ nhân vật cá nhân hóa vào Phân kỳ 2.",
+"image": "https://botbiencity-data.vercel.app/image/4.png",
+"attributes": [
+{
+"trait_type": "Phân kỳ",
+"value": "Phân kỳ 1 (Chờ cập nhật nhân vật)"
+},
+{
+"trait_type": "Số lượng nhân vật thêm",
+"value": "0"
+}
+]
+}
