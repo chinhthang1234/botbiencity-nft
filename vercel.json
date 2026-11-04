@@ -1,1 +1,6 @@
-
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/metadata/:id", "destination": "/metadata/:id.json" }
+  ]
+}
