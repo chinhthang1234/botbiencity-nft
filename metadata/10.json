@@ -1,8 +1,8 @@
 {
   "name": "Bọt Biển City #10",
-  "description": "An interactive architectural canvas from the Bọt Biển City collection. As the collector of this bespoke slot, you hold the exclusive utility to have your personal character/silhouette custom-drawn into the artwork by the artist.\n\nCollector Form: https://forms.gle/xyz...\n\n(After collecting, please fill out the form above or check Unlockable Content to submit your reference).",
+  "description": "An interactive architectural canvas from the Bọt Biển City collection. As the collector of this bespoke slot, you hold the exclusive utility to have your personal character/silhouette custom-drawn into the artwork by the artist.\n\nCollector Form: https://forms.gle/CEBArTDMa2jxKx3x9 \n\n(After collecting, please fill out the form above or check Unlockable Content to submit your reference).",
   "image": "https://botbiencity-data.vercel.app/image/10.png",
-  "external_url": "https://forms.gle/CEBArTDMa2jxKx3x9"
+  "external_url": "https://forms.gle/CEBArTDMa2jxKx3x9",
   "attributes": [
     {
       "trait_type": "Type",
@@ -15,7 +15,8 @@
     {
       "trait_type": "Architecture",
       "value": "Urban Landscape"
-  {
+    },
+    {
       "trait_type": "Customization",
       "value": "Available"
     }
