@@ -1,0 +1,24 @@
+{
+  "name": "Bọt Biển City #13 - Dual-Phase Custom Pass",
+  "description": "An interactive dual-tier slot in the Bọt Biển City collection.\n\n[Collector Utility]: Purchasing this custom slot grants you the privilege to submit a reference portrait. Your character will be:\n1. Illustrated into this Phase 1 canvas as an exclusive digital figure.\n2. Permanently integrated into the grand Phase 2 Architectural Masterpiece (#6), carefully positioned by the architect to harmonize with the physical structure.\n\n[Submission Terms & Guidelines]\n- Civility: Submitted photos must be respectful. No nudity, sexually explicit, violent, defamatory, or hateful content.\n- Non-Political: Strictly no political figures, party symbols, propaganda, or sensitive geopolitical themes.\n- Artistic Discretion: The architect retains final creative authority regarding spatial perspective, scale, and character placement in Phase 2.\n- Refund Policy: If a submission violates these rules, an alternative must be provided within 7 days. If unresolved, the buyer must transfer the NFT back to receive a refund (minus gas fees). Otherwise, the piece remains in its original form.\n\n👉 [Click here to submit your portrait & information](https://docs.google.com/forms/d/e/1FAIpQLScEvZ1fjDDga49jtfnx2ThiSSE1qv3i2o7Cra4jJ-0VDutKSQ/viewform)",
+  "image": "https://botbiencity-data.vercel.app/image/13.png",
+  "external_url": "https://docs.google.com/forms/d/e/1FAIpQLScEvZ1fjDDga49jtfnx2ThiSSE1qv3i2o7Cra4jJ-0VDutKSQ/viewform",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Phase 1 Custom + Phase 2 Integration"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Dual-Phase Character Placement"
+    },
+    {
+      "trait_type": "Phase 2 Placement",
+      "value": "Curated by Architect"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Awaiting Collector Photo"
+    }
+  ]
+}
