@@ -1,15 +1,24 @@
 {
-  "name": "Bọt Biển City #2",
-  "description": "An architectural space from the Bọt Biển City collection. Own this NFT to request a personalized custom character drawn into Phase 2.",
+  "name": "Bọt Biển City #2 - Genesis Resident",
+  "description": "An original 1/1 digital artwork from Bọt Biển City Phase 1.\n\nThis piece showcases a signature genesis muse curated and illustrated directly by the architect, blending surreal ocean aesthetics with real-world spatial structures. This character is natively integrated into the Phase 2 Architectural Masterpiece as an iconic founding resident of the city.\n\n[Collector Note]: This is a completed fine art edition. It does not accept custom portrait requests.",
   "image": "https://botbiencity-data.vercel.app/image/2.png",
+  "external_url": "https://botbiencity-data.vercel.app",
   "attributes": [
     {
-      "trait_type": "Phase",
-      "value": "Phase 1 (Pending Character Update)"
+      "trait_type": "Tier",
+      "value": "Phase 1 - Genesis Figure"
     },
     {
-      "trait_type": "Added Characters",
-      "value": 0
+      "trait_type": "Edition Type",
+      "value": "Completed Original (1/1)"
+    },
+    {
+      "trait_type": "Phase 2 Presence",
+      "value": "Natively Integrated"
+    },
+    {
+      "trait_type": "Customization",
+      "value": "None (Original Art)"
     }
   ]
 }
