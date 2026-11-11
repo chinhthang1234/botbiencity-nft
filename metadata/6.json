@@ -1,15 +1,32 @@
 {
-"name": "Bọt Biển City #6",
-"description": "Không gian kiến trúc Bọt Biển City. Sở hữu NFT để yêu cầu vẽ nhân vật cá nhân hóa vào Phân kỳ 2.",
-"image": "https://botbiencity-data.vercel.app/image/6.png",
-"attributes": [
-{
-"trait_type": "Phân kỳ",
-"value": "Phân kỳ 1 (Chờ cập nhật nhân vật)"
-},
-{
-"trait_type": "Số lượng nhân vật thêm",
-"value": "0"
-}
-]
+  "name": "Bọt Biển City #6 - The Architectural Masterpiece (1/1)",
+  "description": "The crown jewel and central architectural monument of Bọt Biển City Phase 2.\n\nRooted in physical reality, this artwork immortalizes an actual built architectural structure designed by the creator, re-imagined through surreal oceanic philosophy. As the pinnacle 1/1 Masterpiece of the collection, it serves as the living heart where the city's inhabitants converge.\n\n[Master Collector Exclusive Privilege]\nAcquiring this masterwork bestows the ultimate patron status:\n1. Dedicated Presence: The collector is entitled to have 2 to 3 bespoke characters (self, loved ones, or companions) hand-drawn into the prime focal positions of the architecture (e.g., central grand terrace, main entrance, or panoramic balcony).\n2. Sovereign Ownership: Sole, exclusive 1/1 ownership of the grand masterwork on the Base network.\n3. Dynamic Legacy: As community residents from the Phase 1 custom passes are integrated, your figures remain immortalized as the central figures of the entire architectural narrative.\n\n[Submission Terms & Guidelines]\n- Civility: Submitted reference photos must remain respectful. No nudity, explicit, violent, defamatory, or hateful content.\n- Non-Political: Strictly no political figures, party emblems, propaganda, or controversial geopolitical themes.\n- Direct Collaboration: The architect will coordinate directly with the collector to curate positioning and harmony with the physical structure.\n\n👉 [Click here to submit your master reference photos](https://docs.google.com/forms/d/e/1FAIpQLScEvZ1fjDDga49jtfnx2ThiSSE1qv3i2o7Cra4jJ-0VDutKSQ/viewform)",
+  "image": "https://botbiencity-data.vercel.app/image/6.png",
+  "external_url": "https://docs.google.com/forms/d/e/1FAIpQLScEvZ1fjDDga49jtfnx2ThiSSE1qv3i2o7Cra4jJ-0VDutKSQ/viewform",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Phase 2 - Masterpiece"
+    },
+    {
+      "trait_type": "Edition Type",
+      "value": "Sovereign 1/1 Original"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Physical Built Structure"
+    },
+    {
+      "trait_type": "Patron Utility",
+      "value": "2-3 Prime Custom Characters"
+    },
+    {
+      "trait_type": "Focal Positioning",
+      "value": "Grand Balcony / Central Entrance"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Awaiting Master Collector"
+    }
+  ]
 }
